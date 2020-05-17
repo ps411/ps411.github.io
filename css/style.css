@@ -994,8 +994,7 @@ span.price {
 
 /*-- Appointment --*/
 .appointment{
-	background: url(../images/appointment.jpg) no-repeat 0px 0px;
-	background-size: cover;
+	
 }
 .appointment h3.heading,.testimonials h3.heading{
 	color: #fff;
