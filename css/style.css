@@ -811,23 +811,15 @@ h3.heading:after{
 	position: relative;
 }
 .barber-grid1:before {
+    border-bottom: 2px solid #eee;
+    border-right: 2px solid #eee;
     content: "";
-    display: inline-block;
-    left: 15px;
-    position: absolute;
-    right: 15px;
-    top: 15px;
-    bottom: 15px;
     z-index: 1;
 }
 .barber-grid1:after {
+    border-top: 2px solid #eee;
+    border-left: 2px solid #eee;
     content: "";
-    display: inline-block;
-    left: 15px;
-    position: absolute;
-    right: 15px;
-    top: 15px;
-    bottom: 15px;
     z-index: 1;
 }
 .barber-grids h4 {
